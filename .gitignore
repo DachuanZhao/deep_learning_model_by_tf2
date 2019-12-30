@@ -9,12 +9,20 @@
 *.png
 *.hdf5
 *.pkl
-*.1571835516.iZhp3hry71ocxcrtc66xdqZ
 *.DS_Store
-*.data-00000-of-00001
 *.index
 *.meta
 *.xml
+*.data*
+*.tar.gz
+*checkpoint*
+*.xlsx
+*tfevents*
+*.trace
+*backup*
+*.pb
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
