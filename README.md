@@ -3,7 +3,7 @@ There are deeplearning models written by tensorflow2 . All of them are not encap
 
 这个仓库里主要是一些用tensorflow2写的模型。所有的模型都没有被封装，以便熟悉tensorflow2的老手们可以方便的修改。
 
-## 1.word_embeddings
+## 1.word_embedding
 ### (1)tranD
 ### (2)word2vec
 ### (3)deepwalk
