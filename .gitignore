@@ -21,7 +21,7 @@
 *.trace
 *backup*
 *.pb
-!/named_emtity_recognition/bi_lstm_crf/data/*
+!/named_emtity_recognition/bi_lstm_crf/data/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
