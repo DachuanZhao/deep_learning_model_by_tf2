@@ -1,4 +1,3 @@
-!named_emtity_recognition/bi_lstm_crf/
 *.csv
 *.log
 *.out
@@ -22,8 +21,7 @@
 *.trace
 *backup*
 *.pb
-
-
+!named_emtity_recognition/bi_lstm_crf/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
