@@ -1,3 +1,4 @@
+!named_emtity_recognition/bi_lstm_crf/
 *.csv
 *.log
 *.out
