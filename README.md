@@ -12,5 +12,5 @@ There are deeplearning models written by tensorflow2 . All of them are not encap
 ### (1)bilstm
 ### (2)transformer
 
-## 3.named_emtity_recognition
+## 3.named_emtity_recognition(ner)
 ### (1)bilstmcrf
