@@ -10,6 +10,6 @@
 
 
 ## 使用说明：
-### 1. 首先```nohup python 2_main.py &```生成word2vec ，文件格式参见```./data/word2vec_input.txt```
+### 1. 首先进入```word2vec```目录，运行```nohup python 2_main.py &```生成word2vec ，文件格式参见```./data/word2vec_input.txt```
 ### 2. 然后运行```nohup python train_bi_lstm_crf.py & ``` 训练模型，文件格式参见```./data/ner_input.txt``` ;在此期间可以 ```sh run_tensorboard.sh``` 在tensorboard查看训练结果
 ### 3. ```nohup python predict.py &``` 为预测，文件格式参见```./data/ner_predict.txt```
